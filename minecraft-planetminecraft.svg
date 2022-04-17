@@ -40,9 +40,9 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="0.78222655"
-     inkscape:cx="515.83521"
-     inkscape:cy="67.116106"
+     inkscape:zoom="0.78222656"
+     inkscape:cx="460.86392"
+     inkscape:cy="156.60425"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="0"
@@ -126,7 +126,7 @@
      id="layer1"
      transform="translate(294.66469,193.7837)">
     <rect
-       style="fill:#ea303c;fill-opacity:1;stroke:none;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="fill:#008b44;fill-opacity:1;stroke:none;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect16207"
        width="283.10419"
        height="46.30209"
@@ -153,14 +153,14 @@
          y="-157.36101">@PlanetMinecraft</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.6379px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264584"
-       x="-196.21317"
-       y="-164.11411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;line-height:1.25;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="-201.69093"
+       y="-164.08351"
        id="text1341"><tspan
          sodipodi:role="line"
          id="tspan1339"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.6379px;font-family:'Lilita One';-inkscape-font-specification:'Lilita One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
-         x="-196.21317"
-         y="-164.11411">BubbleFish</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
+         x="-201.69093"
+         y="-164.08351">BubbleFish</tspan></text>
   </g>
 </svg>
